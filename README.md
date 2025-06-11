@@ -14,7 +14,7 @@ A modern SaaS application for managing corporate hierarchies, strategic goals, a
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/craigborman04/Corporate-Compass-2.git
    cd corporate-compass
    ```
 
@@ -87,4 +87,4 @@ corporate-compass/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
